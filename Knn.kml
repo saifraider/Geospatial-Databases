@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+<Placemark id="line1">
+    <LineString>
+        <coordinates>
+	-118.279782,34.0280019,0
+	-118.27986111111112,34.02101666666667,0
+        </coordinates>
+    </LineString>
+    <Style> 
+        <LineStyle>  
+            <color>#ff0000ff</color>
+            <width>5</width>
+        </LineStyle> 
+    </Style>
+</Placemark>
+<Placemark id="line2">
+        <LineString>
+            <coordinates>
+	-118.279782,34.0280019,0
+	-118.28446111111111,34.02224722222222,0
+            </coordinates>
+        </LineString>
+        <Style> 
+        <LineStyle>  
+            <color>#ff0000ff</color>
+            <width>5</width>
+        </LineStyle> 
+    </Style>
+</Placemark>
+<Placemark id="line3">
+        <LineString>
+            <coordinates>
+	-118.279782,34.0280019,0
+	-118.28362222222222,34.020088888888885,0
+            </coordinates>
+        </LineString>
+        <Style> 
+        <LineStyle>  
+            <color>#ff0000ff</color>
+            <width>5</width>
+        </LineStyle> 
+    </Style>
+</Placemark>
+
+<Placemark><name>HOME SWEET HOME</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.279782,34.0280019</coordinates></Point>
+</Placemark>
+<Placemark><name>LYON CENTER</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28833333333333,34.024166666666666</coordinates></Point>
+</Placemark>
+<Placemark><name>GALEN CENTER</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.27986111111112,34.02101666666667</coordinates></Point>
+</Placemark>
+<Placemark><name>CHIPOTLE</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28250833333333,34.01687777777778</coordinates></Point>
+</Placemark>
+<Placemark><name>EXPO/VERMONT</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.29181666666666,34.01824722222222</coordinates></Point>
+</Placemark>
+<Placemark><name>CROMWELL FIELD</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28809166666666,34.02184444444444</coordinates></Point>
+</Placemark>
+<Placemark><name>TAPER HALL</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28446111111111,34.02224722222222</coordinates></Point>
+</Placemark>
+<Placemark><name>DOHENY</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28362222222222,34.020088888888885</coordinates></Point>
+</Placemark>
+<Placemark><name>SAL 101</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28948055555556,34.01929166666667</coordinates></Point>
+</Placemark>
+</Document></kml>
+
+
